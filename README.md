@@ -49,18 +49,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=just1nslyyy&show_icons=true&theme=dark&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just1nslyyy&layout=compact&theme=dark)
-
----
-
 ## 🎯 Currently
 
 - Open for **C++ Developer** roles (junior+/middle)
-- Ready to **relocate** to Netherlands or Germany
 - Learning low-level optimizations & game architecture
 
 ---
