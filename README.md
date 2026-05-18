@@ -8,8 +8,6 @@
 
 🐍 Python (FastAPI), PostgreSQL, Docker, Telegram API
 
-🌍 **Open for relocation to Netherlands | Germany | EU**
-
 📫 Telegram: [@just1nslyyy](https://t.me/just1nslyyy)
 
 ---
