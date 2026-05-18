@@ -1,16 +1,78 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**just1nslyyy/just1nslyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **C++ Developer** with production experience
 
-Here are some ideas to get you started:
+💻 Built **[NeuroGuard](https://github.com/just1nslyyy/NeuroGuard)** — a PC monitoring system in TGBOT (+Remote Control)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 System programming, WinAPI, low-level optimization
+
+🐍 Python (FastAPI), PostgreSQL, Docker, Telegram API
+
+🌍 **Open for relocation to Netherlands | Germany | EU**
+
+📫 Telegram: [@just1nslyyy](https://t.me/just1nslyyy)
+
+---
+
+## 🚀 My Main Project
+
+### [NeuroGuard](https://github.com/just1nslyyy/NeuroGuard)
+
+[![GitHub stars](https://img.shields.io/github/stars/just1nslyyy/NeuroGuard?style=for-the-badge)](https://github.com/just1nslyyy/NeuroGuard/stargazers)
+[![License](https://img.shields.io/github/license/just1nslyyy/NeuroGuard?style=for-the-badge)](https://github.com/just1nslyyy/NeuroGuard/blob/main/LICENSE)
+[![C++](https://img.shields.io/badge/C++-80.7%25-blue?style=for-the-badge&logo=cplusplus)](https://github.com/just1nslyyy/NeuroGuard)
+[![Python](https://img.shields.io/badge/Python-18.8%25-yellow?style=for-the-badge&logo=python)](https://github.com/just1nslyyy/NeuroGuard)
+
+**Production-ready PC monitoring system:**
+- 📊 Real-time CPU/GPU temperature, load, RAM, disks, network
+- 🔥 Overheat alerts with remote shutdown/sleep/screenshot
+- 💰 Paid subscriptions (SENTINEL/OVERSEER)
+- 🤖 Telegram bot + C++ agent + PostgreSQL backend
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake)
+
+### Platforms
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=just1nslyyy&show_icons=true&theme=dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just1nslyyy&layout=compact&theme=dark)
+
+---
+
+## 🎯 Currently
+
+- Open for **C++ Developer** roles (junior+/middle)
+- Ready to **relocate** to Netherlands or Germany
+- Learning low-level optimizations & game architecture
+
+---
+
+## 📫 Contact
+
+| Platform | Link |
+|----------|------|
+| Telegram | [@just1nslyyy](https://t.me/TLEET_BLANT) |
+| GitHub | [just1nslyyy](https://github.com/just1nslyyy) |
+| Email | just1nslyyyyy@gmail.com |
+
+---
+
+⭐ **Check out my work:** [github.com/just1nslyyy/NeuroGuard](https://github.com/just1nslyyy/NeuroGuard)
