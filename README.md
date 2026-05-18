@@ -8,7 +8,7 @@
 
 🐍 Python (FastAPI), PostgreSQL, Docker, Telegram API
 
-📫 Telegram: [@just1nslyyy](https://t.me/just1nslyyy)
+📫 Telegram: [@just1nslyyy](https://t.me/TLEET_BLANT)
 📫 Telegram BOT: @NeuroGuardProBot
 
 ---
