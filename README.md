@@ -24,13 +24,9 @@
 **Production-ready PC monitoring system:**
 - 📊 Real-time CPU/GPU temperature, load, RAM, disks, network
 - 🔥 Overheat alerts with remote shutdown/sleep/screenshot
-- 💰 Paid subscriptions (SENTINEL/OVERSEER)
 - 🤖 Telegram bot + C++ agent + PostgreSQL backend
 
 ---
-
-**Dream**
-- Go to the Warhorse studios
 
 ## 🛠 Tech Stack
 
